@@ -1,2 +1,2 @@
-# THE-ICALAS-
+# THE-ICALAS
 DarkScript
